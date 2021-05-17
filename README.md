@@ -3,7 +3,7 @@ Explaination of Descision Trees with a dataset
 ![image](https://user-images.githubusercontent.com/82372055/118543481-ecfb1f00-b771-11eb-90b7-fd0040ff6c30.png)
 
 
-Def : A decision tree is a flowchart-like structure in which each internal node represents a test on a feature, each leaf node represents a class label and branches represent conjunctions of features t
+Def : A decision tree is a flowchart-like structure in which each internal node represents a test on a feature, each leaf node represents a class label and branches represent conjunctions of features 
 ## Import the libraries for pandas and plotting.
 
 Pandas is used for data analysis. The library allows various data manipulation operations such as merging, reshaping, selecting, as well as data cleaning, and data wrangling features
